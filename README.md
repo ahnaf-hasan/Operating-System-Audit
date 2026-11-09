@@ -372,7 +372,7 @@ https://github.com/ahnaf-hasan
 
 - **Topic:** Operating System Audit
 - **Category:** Operating System / Cybersecurity
-- **Language:** Bengali
+- **Language:** Bengali and English
 - **Purpose:** Academic Learning and Practical Knowledge
 
 ---
